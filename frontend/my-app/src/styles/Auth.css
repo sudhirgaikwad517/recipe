@@ -88,14 +88,12 @@
   text-decoration: underline;
   color: #1e293b;
 }
-
-/* Forgot Password */
-.auth-container .forgot-password {
-  display: block;
+/*error*/
+.error {
+  color: red;
   margin-top: 10px;
-  text-decoration: underline;
+  font-size: 14px;
 }
-
 /* Mobile Responsive */
 @media (max-width: 480px) {
   .auth-container {
